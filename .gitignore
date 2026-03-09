@@ -1,0 +1,10 @@
+.env
+node_modules/
+dist/
+__pycache__/
+*.png
+*.jpg
+.DS_Store
+surgical_dump.py
+list_models.py
+test_reasoning_refined.py
